@@ -1,0 +1,32 @@
+body {
+  background-image: url(images/background.jpg);
+  width: 99%;
+  height: 100%;
+  color: white;
+  font-size: large;
+}
+a {
+  font-size: 14;
+}
+a:link {
+  color: lightskyblue;
+}
+
+a:hover {
+  color: yellow;
+}
+
+/* h1{
+    color:whitesmoke;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+h3{
+    color: whitesmoke;
+}
+p{
+    color:whitesmoke;
+} */
